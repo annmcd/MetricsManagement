@@ -1,0 +1,3 @@
+/home/vagrant/shared/workspace/monitoring-sandbox/app/src/main/java/com/cle/metricslogging/jvm/performance/app/AppApplication.java
+/home/vagrant/shared/workspace/monitoring-sandbox/app/src/main/java/com/cle/metricslogging/jvm/performance/app/HeavyTaskService.java
+/home/vagrant/shared/workspace/monitoring-sandbox/app/src/main/java/com/cle/metricslogging/jvm/performance/app/HeavyTaskScheduler.java
